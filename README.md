@@ -5,6 +5,7 @@ Her ayrıntıyı düşünerek tasarladığım bu uygulama hem masaüstü hem de 
 
 
 <h1>Proje Özellikleri ✨</h1>
+
 🔹Modern ve Şık bir arayüz
 
 🔹Responsive Dizayn 
@@ -19,6 +20,6 @@ Her ayrıntıyı düşünerek tasarladığım bu uygulama hem masaüstü hem de 
 
 <h1>Demo 📷</h1>
 
-![](read.mp4)
+![](readme2.gif)
 
 
